@@ -1,1 +1,2 @@
+#Sales Analytics Dashboard – Power BI Project
 Designed an interactive Power BI dashboard to analyze mobile sales across India. Includes KPIs such as Total Sales, Quantity, Transactions, and Avg Price. Visualized city‑wise sales, brand performance, customer ratings, payment methods, and monthly trends using DAX, Power Query, and data modeling techniques. Added bookmarks, page & bookmark navigator buttons to make the Dashboard interactive and published the Dashboard to Power Bi services.
