@@ -28,7 +28,7 @@ Highlights the impact of smoking on heart health using patient data. Includes sm
 🔗 Live Demo Links
 
 - [Sales Performance Dashboard](https://app.powerbi.com/reportEmbed?reportId=27459d37-de2a-4282-995b-09051b1e6a42&autoAuth=true&ctid=3d5b4e0e-80e3-48d8-b88c-6cf7da10dab0)
-  and Sales Performance Multipage Dashboard link - (https://app.powerbi.com/reportEmbed?reportId=d3651935-be8e-4fc0-818c-65195dbf4eba&autoAuth=true&ctid=3d5b4e0e-80e3-48d8-b88c-6cf7da10dab0).
+- [Sales Performance Multipage Dashboard](https://app.powerbi.com/reportEmbed?reportId=d3651935-be8e-4fc0-818c-65195dbf4eba&autoAuth=true&ctid=3d5b4e0e-80e3-48d8-b88c-6cf7da10dab0).
 - [HR Presence Insights Dashboard](https://app.powerbi.com/reportEmbed?reportId=c4d632f4-debf-4b6a-bae9-eac1283fda97&autoAuth=true&ctid=3d5b4e0e-80e3-48d8-b88c-6cf7da10dab0)
 - [HR Attrition Analytics Dashboard](https://app.powerbi.com/reportEmbed?reportId=9b6ead6b-9dd0-4802-bd9d-c70bd9f225b4&autoAuth=true&ctid=3d5b4e0e-80e3-48d8-b88c-6cf7da10dab0)
 - [Smoking Health Risk Analysis Dashboard](https://app.powerbi.com/reportEmbed?reportId=08c74ee9-05b0-4efe-b24a-a4a5148ff9db&autoAuth=true&ctid=3d5b4e0e-80e3-48d8-b88c-6cf7da10dab0).
